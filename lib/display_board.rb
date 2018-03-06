@@ -5,11 +5,11 @@ def display_board
   odd_lines = "   |   |   "
   even_lines = "-----------"
   
-  put odd_lines
-  put even_lines
-  put odd_lines
-  put even_lines
-  put odd_lines
+  puts odd_lines
+  puts even_lines
+  puts odd_lines
+  puts even_lines
+  puts odd_lines
 
 end
 

@@ -10,6 +10,7 @@ def display_board
   put odd_lines
   put even_lines
   put odd_lines
+
 end
 
 display_board
